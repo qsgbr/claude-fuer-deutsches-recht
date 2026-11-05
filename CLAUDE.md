@@ -99,6 +99,10 @@ Diese Regel gilt **ausnahmslos und für alle Zeiten** für jedes Dokument, das e
   6. Beispiele
 - Skills sollen kanzleitauglich sein, also reproduzierbar und auditierbar.
 
+## Arbeitspräferenzen (Working preferences)
+
+- Rechtliche Antworten und Ergebnisse stets fachlich geprüft liefern: tragende Normen, Fristen und Zahlen vor der Ausgabe live am amtlichen Wortlaut abgleichen (gesetze-im-internet.de, Landesrechtsportale, eur-lex.europa.eu), Übergangsrecht zum maßgeblichen Stichtag beachten, einen internen Prüfvermerk mit Prüfdatum und geprüften Normen anfügen und nicht live Verifiziertes ausdrücklich als „nicht verifiziert“ kennzeichnen.
+
 ## Bei Unsicherheit
 
 - Frage nach (Skill, Mandat, Gegenstand, Frist).
