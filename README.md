@@ -919,6 +919,10 @@ Das Skript kopiert die Root-Referenzen ggf. in die Plugin-Spiegel und meldet, wa
 
 [GVB Berlin: Reinigungsvergabe](weitere-unterlagen/sektorenvergabe-gvb-berlin/README.md) bietet zehn unveränderte, einzeln herunterladbare Markdown-Assistenten als eigenständige Vorlage für verkettete Arbeitsabläufe. Die Reinigungsakte umfasst 48 Originalunterlagen in drei Downloadvarianten. Das separate Beispielprojekt wird nicht durch den Marketplace installiert. Wer die entsprechenden zehn Schritte als Plugin einsetzen möchte, verwendet [GVB Reinigungsvergabe](gvb-reinigungsvergabe/README.md) mit Werkstatt- und Mini-Prompt.
 
+## Generalist-Agent für das gesamte deutsche Recht
+
+Wer die Plugins mit einem gebietsübergreifenden Einstieg kombinieren möchte, findet im Repository [`qsgbr/agency-agents`](https://github.com/qsgbr/agency-agents) den Agenten [German Law Counsel](https://github.com/qsgbr/agency-agents/blob/main/specialized/specialized-german-law-counsel.md). Er ordnet Fragen aus allen Rechtsgebieten ein, sichert zuerst laufende Fristen, arbeitet im Gutachten- und Urteilsstil nach der [verbindlichen Zitierweise](./references/zitierweise.md) und verweist für die Vertiefung auf das jeweils passende Plugin aus diesem Repository.
+
 ## Lizenz
 
 Doppellizenziert unter **Apache License, Version 2.0** ODER **MIT License**, nach Wahl des Nutzers (`SPDX-License-Identifier: Apache-2.0 OR MIT`) – siehe [Lizenzhinweis](./LICENSE), [Apache-2.0-Lizenz](./LICENSE-APACHE), [MIT-Lizenz](./LICENSE-MIT) und [Notice](./NOTICE).
